@@ -1,5 +1,5 @@
 {
-    "name": "zxf/tpshop-functions",
+    "name": "zxf20090120/tpshop-functions",
     "description": "functions package for tpshop",
     "type": "library",
     "require": {
